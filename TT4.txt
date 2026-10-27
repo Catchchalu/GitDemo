@@ -1,4 +1,0 @@
-this is new file
-get name and address of a person
-
-
